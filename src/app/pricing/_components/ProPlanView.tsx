@@ -16,8 +16,8 @@ function ProPlanView() {
             <div className="absolute inset-0 bg-gradient-to-br from-blue-500/[0.05] to-purple-500/[0.05] rounded-2xl" />
 
             <div className="relative">
-              <div className="inline-flex p-4 rounded-2xl bg-gradient-to-br from-purple-500/10 to-blue-500/10 mb-6 ring-1 ring-gray-800/60">
-                <Star className="w-8 h-8 text-purple-400" />
+              <div className="inline-flex p-4 rounded-2xl bg-gradient-to-br from-green-500/10 to-blue-500/10 mb-6 ring-1 ring-gray-800/60">
+                <Star className="w-8 h-8 text-green-400" />
               </div>
 
               <h1 className="text-3xl font-semibold text-white mb-3">Pro Plan Active</h1>
