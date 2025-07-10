@@ -45,7 +45,7 @@ function CommentForm({ isSubmitting, onSubmit }: CommentFormProps) {
               isPreview ? "bg-blue-500/10 text-blue-400" : "hover:bg-[#ffffff08] text-gray-400"
             }`}
           >
-            {isPreview ? "Edit" : "Preview"}
+            {isPreview ? "Редакторивать" : "Просмотреть"}
           </button>
         </div>
 
@@ -73,7 +73,7 @@ function CommentForm({ isSubmitting, onSubmit }: CommentFormProps) {
               <span>Format code with ```language</span>
             </div>
             <div className="text-[#808086]/60 pl-5">
-              Tab key inserts spaces • Preview your comment before posting
+             Посмотрите ваш комментарий перед публикованием
             </div>
           </div>
           <button

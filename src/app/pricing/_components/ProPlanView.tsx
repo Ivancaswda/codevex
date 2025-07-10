@@ -22,7 +22,7 @@ function ProPlanView() {
 
               <h1 className="text-3xl font-semibold text-white mb-3">Pro Plan Active</h1>
               <p className="text-gray-400 mb-8 text-lg">
-                Experience the full power of professional development
+                Почувствуй полную силу проффесионального девелопмента
               </p>
 
               <Link
@@ -30,7 +30,7 @@ function ProPlanView() {
                 className="inline-flex items-center justify-center gap-2 w-full px-8 py-4 bg-gradient-to-r from-blue-500/10 to-purple-500/10 hover:from-blue-500/20 hover:to-purple-500/20 text-white rounded-xl transition-all duration-200 border border-gray-800 hover:border-blue-500/50 group"
               >
                 <Command className="w-5 h-5 text-blue-400" />
-                <span>Open Editor</span>
+                <span>Открыть редактор</span>
                 <ArrowRight className="w-5 h-5 text-purple-400 group-hover:translate-x-0.5 transition-transform" />
               </Link>
             </div>

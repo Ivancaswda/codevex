@@ -91,7 +91,7 @@ function EditorPanel() {
                   className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[#00ff88] hover:bg-[#00cc66] text-black font-medium transition"
               >
                 <ShareIcon className="w-4 h-4" />
-                Share
+                Поделиться
               </motion.button>
             </div>
           </div>

@@ -37,7 +37,7 @@ function Header() {
             >
               <div className="flex items-center gap-1">
                 <Code2 className="w-4 h-4 text-green-400" />
-                Snippets
+                Фрагменты
               </div>
             </Link>
 

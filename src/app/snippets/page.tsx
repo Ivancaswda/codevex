@@ -115,7 +115,7 @@ function SnippetsPage() {
                     className="flex items-center gap-1 px-2 py-1 text-xs text-gray-400 hover:text-gray-300 transition-colors"
                 >
                   <X className="w-3 h-3"/>
-                  Clear
+                  Очистить
                 </button>
             )}
 

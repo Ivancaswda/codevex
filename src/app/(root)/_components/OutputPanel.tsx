@@ -36,12 +36,12 @@ function OutputPanel() {
                         {isCopied ? (
                             <>
                                 <CheckCircle className="w-4 h-4 text-green-500" />
-                                Copied
+                                Копировано
                             </>
                         ) : (
                             <>
                                 <Copy className="w-4 h-4" />
-                                Copy
+                                Копировать
                             </>
                         )}
                     </button>
@@ -64,7 +64,7 @@ function OutputPanel() {
                     <>
                         <div className="flex items-center gap-2 text-[#00ff88] mb-2">
                             <CheckCircle className="w-5 h-5" />
-                            <span className="font-medium">Execution Successful</span>
+                            <span className="font-medium">Выполнение успешно</span>
                         </div>
                         <pre className="whitespace-pre-wrap">{output}</pre>
                     </>
